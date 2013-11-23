@@ -1,4 +1,4 @@
-novastellar
+NovaStellar
 ===========
 
-Child Theme for Stargazer
+Child Theme for Hybrid Core's Stargazer
