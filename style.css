@@ -21,6 +21,10 @@ body {
 	background: #807ba3;
 }
 
+h1,h2,h3,h4,h5,h6,.entry-title,.entry-title a {
+	color: #100752;
+}
+
 #menu-primary {
 	background: #807ba3;
 	float: none;
